@@ -1,4 +1,4 @@
-#GraphGPU Project
+#GraphGPU
 
 [Koichi Shirahata](http://matsu-www.is.titech.ac.jp/~koichi-s/>) implemented high performance MapReduce-based graph processing applications running on GPUs. 
 
