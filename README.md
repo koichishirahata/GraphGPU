@@ -21,7 +21,7 @@ The GraphGPU distribution includes following directories:
 
 * *edgelist*: Sample edge lists which can be used as input data of GraphGPU.
 
-*Note: Current version only supports 1 GPU execution. We plan to add multi-GPU execution feature. *
+*Note: Current version only supports 1 GPU execution. We plan to add multi-GPU execution feature.*
 
 ##3. Installation and Setup
 
