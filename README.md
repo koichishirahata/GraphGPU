@@ -56,7 +56,7 @@ Optionally you can set ${SDK_BIN_PATH} and ${SDK_SRC_PATH} (default: SDK_BIN_PAT
 
 ##4. Contact Information
 
-Please contact Koichi Shirahata for further information. Please let us know about bug reports and suggested improvements.
+Please contact [Koichi Shirahata](http://matsu-www.is.titech.ac.jp/~koichi-s/>) for further information. Please let us know about bug reports and suggested improvements.
 
 
 ##Open Source License
