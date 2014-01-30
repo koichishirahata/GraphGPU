@@ -4,7 +4,7 @@
 
 **Here is our paper**: Koichi Shirahata, Hitoshi Sato, Toyotaro Suzumura, and Satoshi Matsuoka. "[A Scalable Implementation of a MapReduce-based Graph Processing Algorithm for Large-scale Heterogeneous Supercomputers](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6546103)" *In Proceedings of the 13th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing (CCGrid 2013)*,  Delft, Netherlands, May 2013. 
 
-This software modifies and includes [Mars](http://www.cse.ust.hk/gpuqp/Mars.html), a MapReduce framework on GPUs.
+This software modifies and includes [Mars](http://www.cse.ust.hk/gpuqp/Mars.html), a MapReduce framework on GPUs, developped by Bingsheng He et al.
 
 ##1. What is GraphGPU
 
@@ -17,8 +17,7 @@ The GraphGPU distribution includes following directories:
 
 * *src*: The source code of Mars framework and graph applications. Currently GraphGPU provides following applications: PageRank, Random Walk with Restart, Connected Components
 
-* *gengraph*: Kronecker graph generator which is based on graph500 benchmark (http://www.graph500.org/). Generated edge\
- list can be used as input for GraphGPU
+* *gengraph*: Kronecker graph generator which is based on graph500 benchmark (http://www.graph500.org/). Generated edge list can be used as input for GraphGPU
 
 * *edgelist*: Sample edge lists which can be used as input data of GraphGPU.
 
