@@ -1,6 +1,6 @@
 #GraphGPU
 
-[Koichi Shirahata](http://matsu-www.is.titech.ac.jp/~koichi-s/>) implemented high performance MapReduce-based graph processing applications running on GPUs. 
+[Koichi Shirahata](http://matsu-www.is.titech.ac.jp/~koichi-s/) implemented high performance MapReduce-based graph processing applications running on GPUs. 
 
 **Here is our paper**: Koichi Shirahata, Hitoshi Sato, Toyotaro Suzumura, and Satoshi Matsuoka. "[A Scalable Implementation of a MapReduce-based Graph Processing Algorithm for Large-scale Heterogeneous Supercomputers](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6546103)" *In Proceedings of the 13th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing (CCGrid 2013)*,  Delft, Netherlands, May 2013. 
 
